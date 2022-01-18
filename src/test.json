@@ -1,0 +1,22 @@
+[
+{
+  "timestamp": "2021-11-19T21:47:30.483Z",
+  "traits": {
+    "company": "facebook",
+    "email": "andrew@segment.io",
+    "favorite_band": "gunsnroses"
+  },
+  "type": "identify",
+  "userId": "d3810"
+},
+{
+  "timestamp": "2021-12-19T21:47:30.483Z",
+  "traits": {
+    "company": "Accenture",
+    "email": "tommy@accenture.com",
+    "favorite_band": "jaltheband"
+  },
+  "type": "identify",
+  "userId": "z3810"
+}
+]

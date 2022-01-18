@@ -1,0 +1,3 @@
+action,userId,timestamp,traits.company,traits.email,traits.favorite_band
+identify,Z3810,2014-10-02T00:46:34.576Z,braze,andy@segment.io,3DoorsDown
+identify,Y1238,2014-09-21T00:26:25.576Z,facebook_pixel,steve@facebook.com,IndianOcean

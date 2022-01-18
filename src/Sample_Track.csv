@@ -1,0 +1,3 @@
+action,userId,timestamp,event,properties.email,properties.first_name,properties.last_name
+track,tuv300,2014-10-02T00:46:34.576Z,page_viewed,john.doe@gmail.com,John,Doe
+track,xuz900,2014-09-21T00:26:25.576Z,page_viewed,lorem.ipsum@facebook.com,Lorem,Ipsum
